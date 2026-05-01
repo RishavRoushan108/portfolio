@@ -1,0 +1,18 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Common IDE/Editor folders
+.vscode/
+.idea/
+*.swp
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Environment secrets (DO NOT COMMIT THESE)
+.env
+.env.local
+
+node_modules
